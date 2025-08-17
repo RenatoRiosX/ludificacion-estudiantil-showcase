@@ -67,6 +67,26 @@ El alcance se expandió para incluir 19 nuevos requerimientos. Mientras que algu
 * Proyectos de Aula Colaborativos (PAC): Introdujo una dimensión de trabajo en equipo directamente en la plataforma.
 
 Esta evolución del alcance refleja un proceso de desarrollo realista y centrado en el cliente, donde la retroalimentación y la ideación continua son fundamentales para construir el mejor producto posible.
+## Screenshots de la Aplicación
+
+<img width="1911" height="877" alt="autenticacion" src="https://github.com/user-attachments/assets/4cd2954c-7b02-497d-a26b-fea51a1936be" />
+
+### Vista Profesor
+
+<img width="2037" height="879" alt="creacionDeRecompensaVistaProfesor" src="https://github.com/user-attachments/assets/65694d13-11db-443b-aef4-174e519f880f" />
+<img width="1903" height="873" alt="crearUnRankingVistaProfesor" src="https://github.com/user-attachments/assets/0943ef0f-b3a9-40de-a74f-60eda8ef2834" /><img width="1895" height="867" alt="detallesDeUnGrupoVistaProfesor" src="https://github.com/user-attachments/assets/58820681-000c-4b4c-91ae-361610f795e8" />
+<img width="1892" height="866" alt="estudiantesQueTieneUnCursoVistaProfesor" src="https://github.com/user-attachments/assets/ded6af81-711b-4cb7-83ca-1929835b8a09" />
+<img width="1917" height="872" alt="menuHamburguesaDesplegadoVistaProfesor" src="https://github.com/user-attachments/assets/cdae9488-61de-481f-8483-ccf8b093bde1" />
+<img width="1910" height="878" alt="pantallaInicioVistaProfesor" src="https://github.com/user-attachments/assets/14fabd12-8ffe-4fb5-aed7-6e0f3a5c40b9" />
+<img width="1905" height="879" alt="verDetallaDeRankingVistaProfesor" src="https://github.com/user-attachments/assets/1acf1c9a-ed22-4dc0-81ff-a28d625c1557" />
+
+### Vista Estudiante
+<img width="1864" height="863" alt="companierosCursoVistaEstudiante" src="https://github.com/user-attachments/assets/3070873a-eb14-4ffe-a5a4-1e22d5b7a839" />
+<img width="1888" height="865" alt="personalizarAvatarVistaEstudiante" src="https://github.com/user-attachments/assets/b785a009-cfed-4ece-8176-b73f83b2b923" />
+<img width="1889" height="841" alt="rankingVistaDetalladaVistaEstudiante" src="https://github.com/user-attachments/assets/73f722a3-bd58-43d0-9a6c-c17a17150177" />
+<img width="1907" height="861" alt="rankingVistaEstudiante" src="https://github.com/user-attachments/assets/930baa8c-f09e-40a6-bcb2-c37aa796ba42" />
+<img width="1895" height="875" alt="tiendaDelGrupoVistaEstudiante" src="https://github.com/user-attachments/assets/697af6c5-fb6b-459c-8462-c2417735ba0d" />
+<img width="1885" height="885" alt="vistaGeneralDelPerfilDelEstudianteEnUnGrupoVistaEstudiante" src="https://github.com/user-attachments/assets/2d2e6c7e-8ad1-446c-ab8d-2a55fd42c339" />
 
 
 ## 👨‍💻 Contacto
