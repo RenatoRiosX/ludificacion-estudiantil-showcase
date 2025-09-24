@@ -88,6 +88,10 @@ Esta evolución del alcance refleja un proceso de desarrollo realista y centrado
 <img width="1895" height="875" alt="tiendaDelGrupoVistaEstudiante" src="https://github.com/user-attachments/assets/697af6c5-fb6b-459c-8462-c2417735ba0d" />
 <img width="1885" height="885" alt="vistaGeneralDelPerfilDelEstudianteEnUnGrupoVistaEstudiante" src="https://github.com/user-attachments/assets/2d2e6c7e-8ad1-446c-ab8d-2a55fd42c339" />
 
+## Videos de la Aplicación
+* https://youtu.be/2DTUCDe3Gtc
+* https://youtu.be/kBxWB5np4ZE
+* https://youtu.be/c0EYGpbdIzo
 
 ## 👨‍💻 Contacto
 Renato Ríos Seguí
